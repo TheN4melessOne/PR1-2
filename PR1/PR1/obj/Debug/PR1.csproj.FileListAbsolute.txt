@@ -1,0 +1,59 @@
+E:\учеба\3 курс\практика\PR1\PR1\bin\Debug\PR1.exe.config
+E:\учеба\3 курс\практика\PR1\PR1\bin\Debug\PR1.exe
+E:\учеба\3 курс\практика\PR1\PR1\bin\Debug\PR1.pdb
+E:\учеба\3 курс\практика\PR1\PR1\obj\Debug\PR1.csproj.AssemblyReference.cache
+E:\учеба\3 курс\практика\PR1\PR1\obj\Debug\PR1.csproj.SuggestedBindingRedirects.cache
+E:\учеба\3 курс\практика\PR1\PR1\obj\Debug\MainWindow.g.cs
+E:\учеба\3 курс\практика\PR1\PR1\obj\Debug\App.g.cs
+E:\учеба\3 курс\практика\PR1\PR1\obj\Debug\PR1_MarkupCompile.cache
+E:\учеба\3 курс\практика\PR1\PR1\obj\Debug\PR1_MarkupCompile.lref
+E:\учеба\3 курс\практика\PR1\PR1\obj\Debug\MainWindow.baml
+E:\учеба\3 курс\практика\PR1\PR1\obj\Debug\PR1.g.resources
+E:\учеба\3 курс\практика\PR1\PR1\obj\Debug\PR1.Properties.Resources.resources
+E:\учеба\3 курс\практика\PR1\PR1\obj\Debug\PR1.csproj.GenerateResource.cache
+E:\учеба\3 курс\практика\PR1\PR1\obj\Debug\PR1.csproj.CoreCompileInputs.cache
+E:\учеба\3 курс\практика\PR1\PR1\obj\Debug\PR1.exe
+E:\учеба\3 курс\практика\PR1\PR1\obj\Debug\PR1.pdb
+E:\учеба\3 курс\практика\PR1\PR1\obj\Debug\AuthorizationPage.g.cs
+E:\учеба\3 курс\практика\PR1\PR1\obj\Debug\CreateEmployeePage.g.cs
+E:\учеба\3 курс\практика\PR1\PR1\obj\Debug\AuthorizationPage.baml
+E:\учеба\3 курс\практика\PR1\PR1\obj\Debug\CreateEmployeePage.baml
+D:\isp-31\lasheva_o_m\PR2\PR1\PR1\bin\Debug\PR1.exe.config
+D:\isp-31\lasheva_o_m\PR2\PR1\PR1\bin\Debug\PR1.exe
+D:\isp-31\lasheva_o_m\PR2\PR1\PR1\bin\Debug\PR1.pdb
+D:\isp-31\lasheva_o_m\PR2\PR1\PR1\obj\Debug\PR1.csproj.AssemblyReference.cache
+D:\isp-31\lasheva_o_m\PR2\PR1\PR1\obj\Debug\AuthorizationPage.g.cs
+D:\isp-31\lasheva_o_m\PR2\PR1\PR1\obj\Debug\CreateEmployeePage.g.cs
+D:\isp-31\lasheva_o_m\PR2\PR1\PR1\obj\Debug\MainWindow.g.cs
+D:\isp-31\lasheva_o_m\PR2\PR1\PR1\obj\Debug\App.g.cs
+D:\isp-31\lasheva_o_m\PR2\PR1\PR1\obj\Debug\PR1_MarkupCompile.cache
+D:\isp-31\lasheva_o_m\PR2\PR1\PR1\obj\Debug\PR1_MarkupCompile.lref
+D:\isp-31\lasheva_o_m\PR2\PR1\PR1\obj\Debug\AuthorizationPage.baml
+D:\isp-31\lasheva_o_m\PR2\PR1\PR1\obj\Debug\CreateEmployeePage.baml
+D:\isp-31\lasheva_o_m\PR2\PR1\PR1\obj\Debug\MainWindow.baml
+D:\isp-31\lasheva_o_m\PR2\PR1\PR1\obj\Debug\PR1.g.resources
+D:\isp-31\lasheva_o_m\PR2\PR1\PR1\obj\Debug\PR1.Properties.Resources.resources
+D:\isp-31\lasheva_o_m\PR2\PR1\PR1\obj\Debug\PR1.csproj.GenerateResource.cache
+D:\isp-31\lasheva_o_m\PR2\PR1\PR1\obj\Debug\PR1.csproj.CoreCompileInputs.cache
+D:\isp-31\lasheva_o_m\PR2\PR1\PR1\obj\Debug\PR1.exe
+D:\isp-31\lasheva_o_m\PR2\PR1\PR1\obj\Debug\PR1.pdb
+F:\PR1-2\PR1\PR1\bin\Debug\PR1.exe.config
+F:\PR1-2\PR1\PR1\bin\Debug\PR1.exe
+F:\PR1-2\PR1\PR1\bin\Debug\PR1.pdb
+F:\PR1-2\PR1\PR1\obj\Debug\PR1.csproj.AssemblyReference.cache
+F:\PR1-2\PR1\PR1\obj\Debug\PR1.csproj.SuggestedBindingRedirects.cache
+F:\PR1-2\PR1\PR1\obj\Debug\AuthorizationPage.g.cs
+F:\PR1-2\PR1\PR1\obj\Debug\CreateEmployeePage.g.cs
+F:\PR1-2\PR1\PR1\obj\Debug\MainWindow.g.cs
+F:\PR1-2\PR1\PR1\obj\Debug\App.g.cs
+F:\PR1-2\PR1\PR1\obj\Debug\PR1_MarkupCompile.cache
+F:\PR1-2\PR1\PR1\obj\Debug\PR1_MarkupCompile.lref
+F:\PR1-2\PR1\PR1\obj\Debug\AuthorizationPage.baml
+F:\PR1-2\PR1\PR1\obj\Debug\CreateEmployeePage.baml
+F:\PR1-2\PR1\PR1\obj\Debug\MainWindow.baml
+F:\PR1-2\PR1\PR1\obj\Debug\PR1.g.resources
+F:\PR1-2\PR1\PR1\obj\Debug\PR1.Properties.Resources.resources
+F:\PR1-2\PR1\PR1\obj\Debug\PR1.csproj.GenerateResource.cache
+F:\PR1-2\PR1\PR1\obj\Debug\PR1.csproj.CoreCompileInputs.cache
+F:\PR1-2\PR1\PR1\obj\Debug\PR1.exe
+F:\PR1-2\PR1\PR1\obj\Debug\PR1.pdb

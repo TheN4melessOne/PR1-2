@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\isp-31\\lasheva_o_m\\PR2\\PR1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0731420E-9E08-493F-A83C-F539B07A9EDB}|PR1\\PR1.csproj|d:\\isp-31\\lasheva_o_m\\pr2\\pr1\\pr1\\authorizationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731420E-9E08-493F-A83C-F539B07A9EDB}|PR1\\PR1.csproj|solutionrelative:pr1\\authorizationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731420E-9E08-493F-A83C-F539B07A9EDB}|PR1\\PR1.csproj|d:\\isp-31\\lasheva_o_m\\pr2\\pr1\\pr1\\authorizationemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731420E-9E08-493F-A83C-F539B07A9EDB}|PR1\\PR1.csproj|solutionrelative:pr1\\authorizationemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731420E-9E08-493F-A83C-F539B07A9EDB}|PR1\\PR1.csproj|D:\\isp-31\\lasheva_o_m\\PR2\\PR1\\pr1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731420E-9E08-493F-A83C-F539B07A9EDB}|PR1\\PR1.csproj|solutionrelative:pr1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731420E-9E08-493F-A83C-F539B07A9EDB}|PR1\\PR1.csproj|D:\\isp-31\\lasheva_o_m\\PR2\\PR1\\pr1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0731420E-9E08-493F-A83C-F539B07A9EDB}|PR1\\PR1.csproj|solutionrelative:pr1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorizationPage.xaml.cs",
+              "DocumentMoniker": "D:\\isp-31\\lasheva_o_m\\PR2\\PR1\\PR1\\AuthorizationPage.xaml.cs",
+              "RelativeDocumentMoniker": "PR1\\AuthorizationPage.xaml.cs",
+              "ToolTip": "D:\\isp-31\\lasheva_o_m\\PR2\\PR1\\PR1\\AuthorizationPage.xaml.cs",
+              "RelativeToolTip": "PR1\\AuthorizationPage.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:43:02.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorizationEmployee.cs",
+              "DocumentMoniker": "D:\\isp-31\\lasheva_o_m\\PR2\\PR1\\PR1\\AuthorizationEmployee.cs",
+              "RelativeDocumentMoniker": "PR1\\AuthorizationEmployee.cs",
+              "ToolTip": "D:\\isp-31\\lasheva_o_m\\PR2\\PR1\\PR1\\AuthorizationEmployee.cs",
+              "RelativeToolTip": "PR1\\AuthorizationEmployee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:42:54.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\isp-31\\lasheva_o_m\\PR2\\PR1\\PR1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PR1\\MainWindow.xaml",
+              "ToolTip": "D:\\isp-31\\lasheva_o_m\\PR2\\PR1\\PR1\\MainWindow.xaml",
+              "RelativeToolTip": "PR1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T06:27:15.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\isp-31\\lasheva_o_m\\PR2\\PR1\\PR1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PR1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\isp-31\\lasheva_o_m\\PR2\\PR1\\PR1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PR1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T05:52:33.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
